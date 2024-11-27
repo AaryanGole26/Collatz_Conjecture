@@ -64,10 +64,5 @@ The program generates a graph similar to the image below. Each sequence is plott
 
 ---
 
-## 🤝 **Contributing**
-Contributions are welcome! Feel free to submit issues or pull requests for improvements.
-
----
-
 ## 🧑‍💻 **Author**
 - Aaryan Chandrakant Gole
