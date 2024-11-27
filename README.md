@@ -71,5 +71,7 @@ The program generates a graph similar to the image below. Each sequence is plott
 
 ---
 
-## 🧑‍💻 **Author**
-- Aaryan Chandrakant Gole
+## 🧑‍💻 **Contact**
+[![GitHub - AaryanGole26](https://img.shields.io/badge/GitHub%20-%23AaryanGole26-%2300A6A6?style=for-the-badge)](https://github.com/AaryanGole26)
+[![Repository - Collatz Conject](https://img.shields.io/badge/Repository%20-%23CollatzConjecture-%2300A6A6?style=for-the-badge)](https://github.com/AaryanGole26/Collatz_Conjecture)
+
