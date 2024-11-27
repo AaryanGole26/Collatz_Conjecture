@@ -32,8 +32,8 @@ The program requires the following Python libraries:
 ### **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/Collatz-Conjecture-Visualizer.git
-   cd Collatz-Conjecture-Visualizer
+   git clone https://github.com/AaryanGole26/Collatz_Conjecture.git
+   cd Collatz_Conjecture
    ```
 2. Install the required library:
    ```bash
@@ -41,7 +41,7 @@ The program requires the following Python libraries:
    ```
 3. Run the program:
    ```bash
-   python collatz_visualizer.py
+   python CollatzConjecture.py
    ```
 
 ---
@@ -61,8 +61,7 @@ The program generates a graph similar to the image below. Each sequence is plott
 ---
 
 ## 📂 **Files**
-- `collatz_visualizer.py`: The main program script.
-- `requirements.txt`: Lists required Python libraries.
+- `CollatzConjecture.py`: The main program script.
 
 ---
 
