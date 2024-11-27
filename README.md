@@ -4,7 +4,7 @@
 This Python program visualizes the **Collatz Conjecture** (also known as the 3x + 1 problem) through interactive graphs. For a given natural number, the program calculates the Collatz sequence and displays it graphically.
 
 <p align="center">
-![Collatz Conjecture Graph](CollatzConjecturePattern.png)
+<img src="./CollatzConjecturePattern.png" alt="Pattern of Collatz Conjecture"/>
 </p>
 
 ## 📜 **What is the Collatz Conjecture?**
