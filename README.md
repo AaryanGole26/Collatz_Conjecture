@@ -3,7 +3,9 @@
 
 This Python program visualizes the **Collatz Conjecture** (also known as the 3x + 1 problem) through interactive graphs. For a given natural number, the program calculates the Collatz sequence and displays it graphically.
 
+<p align="center">
 ![Collatz Conjecture Graph](CollatzConjecturePattern.png)
+</p>
 
 ## 📜 **What is the Collatz Conjecture?**
 The Collatz Conjecture is a mathematical hypothesis proposed by Lothar Collatz in 1937. It states that for any positive integer `n`:
