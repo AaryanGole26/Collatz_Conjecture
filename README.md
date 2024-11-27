@@ -1,6 +1,10 @@
 
 # The Collatz Conjecture Visualizer
 
+<p align="center">
+<img src="./CC_Banner.png" alt="Collatz Conjecture"/>
+</p>
+
 This Python program visualizes the **Collatz Conjecture** (also known as the 3x + 1 problem) through interactive graphs. For a given natural number, the program calculates the Collatz sequence and displays it graphically.
 
 <p align="center">
